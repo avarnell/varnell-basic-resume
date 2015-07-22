@@ -1,0 +1,28 @@
+body {
+	background-color: silver;
+}
+
+
+img{
+	height: 300 px;
+
+}
+
+h1{
+	font-family: Helvetica;
+	color: pink;
+}
+
+h2{
+	font-family: Helvetica;
+	border-bottom: 1px pink solid;
+}
+.lead{
+	font-style: italic;
+}
+
+.container {
+  padding: 50px;
+  max-width: 800px;
+  background-color: black;
+}
