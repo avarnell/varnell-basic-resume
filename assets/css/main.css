@@ -28,3 +28,18 @@ h2{
   max-width: 1000px;
   background-color: black;
 }
+
+#footer {
+	margin-top: 30px;
+	border-top: 3px pink solid;
+	text-align: left;
+	padding-top: 10px;
+}
+
+.col-md-6{
+	text-decoration: underline;
+}
+
+li:hover {
+	color: white;
+}
